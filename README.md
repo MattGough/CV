@@ -1,59 +1,64 @@
 ## Matt Gough
 
-[Makers Academy Ronin](http://ronin.makersacademy.com/) graduate starting my career as a software developer. I graduated from UCL, in September 2014 with a Physics BSc, I've since been enjoying some of my passions: running, cycling, & climbing in the mountains of North Wales. I'm looking to start a career as a junior developer with a great team, who are really passionate about writing great code and creating incredible things.
+I love solving problems and being creative. I studied Physics at university because I liked solving complex problems, but when the problems got so large you have to have PhD to begin to understand them, they lost their appeal. Twelve months ago I thought programming was dull and uncreative, of course I hadn't tried it. Now I'm amazed by it's creative and problem-solving capabilities. The [Makers Academy](http://www.makersacademy.com/employers/) course I've just completed has been incredible and given me some fantastic skills to start my career as junior developer, and I can't wait to apply them.
 
 ## Skills
 
 #### Group Work
 
-Confident working in a group; managing resources and time effectively. Comfortable taking a lead or supporting role. Developed through intensive group work on the Makers Academy course and in projects at university plus experience from retail jobs.
+Confident working in a group. Developed through intensive group work on the Makers Academy course, where we used Github Workflow and Waffle to manage tasks.
 
 - Makers Academy Final Project - [Social-Dashboard](https://github.com/MattGough/Social-Dashboard), a dashboard for social media streams.
-- Makers Academy Week 9 Group Project - [MakersBnb](https://github.com/MattGough/makers-bnb-ra), an airbnb clone built with AngularJs and Ruby on Rails.
-- Third Year Degree Project - Using Bending Pre-Stress to Strengthen Structures ([Link to presentation](http://prezi.com/n-rhqgzdel5t/?utm_campaign=share&utm_medium=copy&rc=ex0share), voted best in year!)
-- Experience in working in retail teams including at  [Morrisons](https://morissons.com), [Blacks](http://www.blacks.co.uk/), [Cotswold Outdoor](http://www.cotswoldoutdoor.com/), [Snowdon Mountain Railway](http://www.snowdonrailway.co.uk/).
+- Makers Academy Week 9 Group Project - [MakersBnb](https://github.com/MattGough/makers-bnb-ra), an Airbnb clone built with AngularJs and Ruby on Rails.
 
 #### Software Craftsmanship
 
-At Makers Academy I learnt the importance of Test Driven Development, never writing code without a test first, adhering to SOLID principles and the strength of the AGILE development process.  The AGILE process emphasized pair-programming which was implemented throughout the course, as well as daily stand-ups and weekly retrospectives.
+At Makers Academy I learnt the importance of Test Driven Development, adhering to SOLID principles and the strength of the AGILE development process. The AGILE process emphasized pair-programming which was implemented throughout the course, as well as daily stand-ups and weekly retrospectives.
 
-- Here are some examples of unit tests using RSpec and Jasmine and feature tests using Capybara and Protractor.
-- This AngularJS [service](https://github.com/MattGough/Social-Dashboard/blob/master/app/services.js) from the Social-Dashboard project, although not perfect, opens the application up to api providers being easily added.
+- Here are some examples of unit tests using [RSpec](https://github.com/MattGough/bank_tech_test/blob/master/spec/account_spec.rb), [Jasmine](https://github.com/MattGough/Thermostat/blob/master/spec/ThermostatSpec.js) and [Karma](https://github.com/DouglasRose/Angular_Project/blob/master/test/unit/controllerSpec.js) and feature tests using [Capybara](https://github.com/MattGough/instagram-challenge/blob/master/spec/features/posts_feature_spec.rb) and [Protractor](https://github.com/MattGough/Social-Dashboard/blob/master/tests/e2e-tests/twitter_scenarios.js).
+- In our Social-Dashboard project I refactored the logic for making API requests to a service which really slimed down our [controllers in AngularJS](https://github.com/MattGough/Social-Dashboard/commit/56bd14a89d770b260b5179ca8ff0365f095902ee)), and made adding API providers easier!
 
 #### Ruby & Javascript
 
-Through most of the Makers Academy course we focused on Ruby, which I now feel very comfortable using. We also learnt Javascript which I've grown to love coding in. Our final project, [Social-Dashboard](https://github.com/MattGough/Social-Dashboard), was written entirely in Javascript.
+Through most of the Makers Academy course we focused on Ruby. We also learnt Javascript which I've grown to love coding in. Our final project, [Social-Dashboard](https://github.com/MattGough/Social-Dashboard), was written entirely in Javascript.
 
 - A [yelp-clone](https://github.com/MattGough/yelp_clone) & an [instagram-clone](https://github.com/MattGough/instagram-challenge) built with Ruby on Rails.
-- My Codewars [profile](http://www.codewars.com/users/Matt_Gough). (4kyu and dropping!)
-- In our Social-Dashboard project I refactored the logic for making api requests to a service which really slimed down our [controllers](https://github.com/MattGough/Social-Dashboard/blob/master/app/controllers/twitter_controller.js) in AngularJS!
+- My Codewars [profile](http://www.codewars.com/users/Matt_Gough). (5kyu and dropping!)
+- A web app that searches Github Users by name, built with AngularJS and Sinatra, and [deployed to Heroku](https://github-user-search123.herokuapp.com/).
 
 
 #### Physics
 
 During my degree I learnt to tackle complex problems such as Quantum Mechanics and Particle Physics. This has provided me with strong mathematical and analytical skills.
 
-- I also produced scientific reports including this literature review on Neutral Atom Detection and this report on a Hall-Effect experiment.
+- I also produced scientific reports including this literature review on [Neutral Atom Detection](https://www.dropbox.com/s/w4d9wjygnkv2r3x/Neutral%20Atom%20Detection%20%28Matthew%20Gough%29.docx?dl=0).
 
 ## Education
 
-#### Makers Academy (18/01/16 to 08/04/16)
+#### [Makers Academy](http://www.makersacademy.com/)  January - April 2016
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+Europe's leading web developer bootcamp. I completed the [Ronin](http://ronin.makersacademy.com/) remote course, which also gave me a huge amount of remote pairing experience.
 
-#### University College London (September 2010 to June 2014)
+Principles Instilled: OOP, TDD, SOLID, MVC, AGILE.
 
-- Physics
-- Upper Second
+Technologies Used:
 
-## Experience
+* Ruby & Ruby on Rails
+* Javascript, Node.js & Angular.js
+* Rspec, Jasmine, Karma, Capybara & Protractor
+* Postgres, Active Record & DataMapper
+* HTML5, CSS, Bootstrap & Foundation
+* Facebook, Twitter, Instagram & Twilio APIs
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+#### [University College London](http://www.ucl.ac.uk/) (September 2010 to June 2014)
+
+- Physics BSc, Upper Second
+
+## Work
+
+**Snowdon Mountain Railway** - (March to November 2015)    
+*Assistant Supervisor Retail*  
+**Blacks** -  (July to August 2012)   
+*Retail Assistant*
+**Cotswold Outdoor** - (Oct 2011 to Jan 2012)
+*Retail Assistant*
