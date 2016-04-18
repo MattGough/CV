@@ -8,7 +8,7 @@ I love solving problems and being creative. I studied Physics at university beca
 
 Confident working in a group. Developed through intensive group work on the Makers Academy course, where we used Github Workflow and Waffle to manage tasks.
 
-- Makers Academy Final Project - [Social-Dashboard](https://github.com/MattGough/Social-Dashboard), a dashboard for social media streams.
+- Makers Academy Final Project - [Social-Dashboard](https://github.com/MattGough/Social-Dashboard), a dashboard for social media streams. Users can read posts and post to Facebook and Twitter, and pull in their Instagram feed.
 - Makers Academy Week 9 Group Project - [MakersBnb](https://github.com/MattGough/makers-bnb-ra), an Airbnb clone built with AngularJs and Ruby on Rails.
 
 #### Software Craftsmanship
@@ -22,9 +22,11 @@ At Makers Academy I learnt the importance of Test Driven Development, adhering t
 
 Through most of the Makers Academy course we focused on Ruby. We also learnt Javascript which I've grown to love coding in. Our final project, [Social-Dashboard](https://github.com/MattGough/Social-Dashboard), was written entirely in Javascript.
 
-- A [yelp-clone](https://github.com/MattGough/yelp_clone) & an [instagram-clone](https://github.com/MattGough/instagram-challenge) built with Ruby on Rails.
-- My Codewars [profile](http://www.codewars.com/users/Matt_Gough). (6kyu and dropping!)
+- A [Twitter clone](https://github.com/MattGough/chitter-challenge) built in a weekend with Ruby & Sinatra.
+- A [Yelp clone](https://github.com/MattGough/yelp_clone) built with Ruby on Rails.
 - A web app that searches Github Users by name, built with AngularJS and Sinatra, and [deployed to Heroku](https://github-user-search123.herokuapp.com/).
+- My Codewars [profile](http://www.codewars.com/users/Matt_Gough). (6kyu and dropping!)
+
 
 
 #### Physics
