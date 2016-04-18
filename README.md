@@ -23,7 +23,7 @@ At Makers Academy I learnt the importance of Test Driven Development, adhering t
 Through most of the Makers Academy course we focused on Ruby. We also learnt Javascript which I've grown to love coding in. Our final project, [Social-Dashboard](https://github.com/MattGough/Social-Dashboard), was written entirely in Javascript.
 
 - A [yelp-clone](https://github.com/MattGough/yelp_clone) & an [instagram-clone](https://github.com/MattGough/instagram-challenge) built with Ruby on Rails.
-- My Codewars [profile](http://www.codewars.com/users/Matt_Gough). (5kyu and dropping!)
+- My Codewars [profile](http://www.codewars.com/users/Matt_Gough). (6kyu and dropping!)
 - A web app that searches Github Users by name, built with AngularJS and Sinatra, and [deployed to Heroku](https://github-user-search123.herokuapp.com/).
 
 
