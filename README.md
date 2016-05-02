@@ -58,9 +58,7 @@ Technologies Used:
 
 ## Work
 
-**Snowdon Mountain Railway** - (March to November 2015)    
-*Assistant Supervisor Retail*  
-**Blacks** -  (July to August 2012)   
-*Retail Assistant*
-**Cotswold Outdoor** - (Oct 2011 to Jan 2012)
-*Retail Assistant*
+**Snowdon Mountain Railway** - *Assistant Supervisor Retail* (March to November 2015)    
+**Book People** - *Warehouse Assistant*  (November to December 2014)  
+**Blacks** - *Retail Assistant* (July to August 2012)   
+**Cotswold Outdoor** - *Retail Assistant* (Oct 2011 to Jan 2012)
